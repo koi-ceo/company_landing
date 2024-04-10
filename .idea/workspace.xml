@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1de70ed3-84af-40fd-8ca1-b435833e8ff9" name="Changes" comment="[UPDATE] 라이센스" />
+    <list default="true" id="1de70ed3-84af-40fd-8ca1-b435833e8ff9" name="Changes" comment="[UPDATE] 라이센스">
+      <change afterPath="$PROJECT_DIR$/_common.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bulma.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/head.sub.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tail.sub.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +55,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Bitnami/wampstack-7.4.29/apache2/htdocs/koi/license_reseller",
+    "last_opened_file_path": "C:/Bitnami/wampstack-7.4.29/apache2/htdocs/koi/company_landing",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -55,6 +67,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Bitnami\wampstack-7.4.29\apache2\htdocs\koi\company_landing" />
+      <recent name="C:\Bitnami\wampstack-7.4.29\apache2\htdocs\koi\company_landing\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -66,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1712563548294</updated>
       <workItem from="1712563549307" duration="1748000" />
-      <workItem from="1712568555196" duration="367000" />
+      <workItem from="1712568555196" duration="614000" />
+      <workItem from="1712732737040" duration="2685000" />
     </task>
     <task id="LOCAL-00001" summary="[UPDATE] 라이센스 업데이트">
       <option name="closed" value="true" />
