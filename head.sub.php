@@ -22,24 +22,24 @@ $koi['description'] = "";
 </head>
 <body>
 
-<section class="section">
-    <div class="container is-fluid">
-        <div class="columns is-vcentered">
-            <div class="column is-6">
-                <h1 class="title is-1"><a href="/"><?= $koi['title'] ?></a></h1>
-            </div>
-            <div class="column is-6">
-                <nav class="navbar is-spaced" role="navigation" aria-label="main navigation">
-                    <div class="navbar-menu navbar-end">
-                        <div class="navbar-end">
-                            <a class="navbar-item" href="/about.php">회사소개</a>
-                            <a class="navbar-item" href="/product.php">제품소개</a>
-                            <a class="navbar-item" href="/result.php">검색결과</a>
-                            <a class="navbar-item" href="/contact.php">문의하기</a>
-                        </div>
-                    </div>
-                </nav>
+<nav class="navbar" role="navigation" aria-label="main navigation">
+    <div class="container">
+        <div class="navbar-brand">
+            <a class="navbar-item" href="/">
+                <h1 class="title is-1"><?= $koi['title'] ?></h1>
+            </a>
+            <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarMenu">
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+                <span aria-hidden="true"></span>
+            </a>
+        </div>
+        <div id="navbarMenu" class="navbar-menu">
+            <div class="navbar-end">
+                <a class="navbar-item" href="/">회사소개</a>
+                <a class="navbar-item" href="/product.php">제품소개</a>
+                <a class="navbar-item" href="/contact.php">문의하기</a>
             </div>
         </div>
     </div>
-</section>
+</nav>

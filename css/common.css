@@ -14,7 +14,10 @@ a {
 }
 
 #section1 {
-    background-color: #f8f2f4; /* 부드러운 라즈베리 */
+    background-image: url('/data/image/image_main_1.jpg'); /* 이미지 경로를 실제 경로로 변경해주세요. */
+    background-position: center center; /* 이미지를 섹션의 중앙에 배치합니다. */
+    background-size: cover; /* 이미지가 섹션을 완전히 덮도록 크기를 조절합니다. */
+    background-repeat: no-repeat; /* 이미지가 반복되지 않도록 설정합니다. */
 }
 
 #section2 {
