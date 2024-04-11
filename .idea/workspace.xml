@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1de70ed3-84af-40fd-8ca1-b435833e8ff9" name="Changes" comment="[UPDATE] 헤더 메뉴 구성중">
-      <change afterPath="$PROJECT_DIR$/adm/css/main.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adm/forms.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adm/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adm/js/chart.sample.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adm/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adm/profile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/adm/tables.html" afterDir="false" />
+    <list default="true" id="1de70ed3-84af-40fd-8ca1-b435833e8ff9" name="Changes" comment="[UPDATE] 어드민 구성">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/head.sub.php" beforeDir="false" afterPath="$PROJECT_DIR$/head.sub.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adm/forms.html" beforeDir="false" afterPath="$PROJECT_DIR$/adm/forms.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adm/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/adm/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adm/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/adm/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adm/tables.html" beforeDir="false" afterPath="$PROJECT_DIR$/adm/tables.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +80,7 @@
       <workItem from="1712732737040" duration="2832000" />
       <workItem from="1712742860295" duration="2632000" />
       <workItem from="1712837835052" duration="1533000" />
-      <workItem from="1712839645973" duration="1181000" />
+      <workItem from="1712839645973" duration="2711000" />
     </task>
     <task id="LOCAL-00001" summary="[UPDATE] 라이센스 업데이트">
       <option name="closed" value="true" />
@@ -151,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712750512960</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="[UPDATE] 어드민 구성">
+      <option name="closed" value="true" />
+      <created>1712840868336</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1712840868336</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,6 +166,7 @@
     <MESSAGE value="[UPDATE] 라이센스" />
     <MESSAGE value="[UPDATE] 기본 레이아웃 셋팅" />
     <MESSAGE value="[UPDATE] 헤더 메뉴 구성중" />
-    <option name="LAST_COMMIT_MESSAGE" value="[UPDATE] 헤더 메뉴 구성중" />
+    <MESSAGE value="[UPDATE] 어드민 구성" />
+    <option name="LAST_COMMIT_MESSAGE" value="[UPDATE] 어드민 구성" />
   </component>
 </project>
