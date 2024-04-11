@@ -4,10 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1de70ed3-84af-40fd-8ca1-b435833e8ff9" name="Changes" comment="[UPDATE] 기본 레이아웃 셋팅">
-      <change afterPath="$PROJECT_DIR$/data/image/image_main_1.jpg" afterDir="false" />
+    <list default="true" id="1de70ed3-84af-40fd-8ca1-b435833e8ff9" name="Changes" comment="[UPDATE] 헤더 메뉴 구성중">
+      <change afterPath="$PROJECT_DIR$/adm/css/main.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adm/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adm/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adm/js/chart.sample.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adm/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adm/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/adm/tables.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/common.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/head.sub.php" beforeDir="false" afterPath="$PROJECT_DIR$/head.sub.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
@@ -49,7 +54,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Bitnami/wampstack-7.4.29/apache2/htdocs/koi/company_landing/data/image",
+    "last_opened_file_path": "C:/Bitnami/wampstack-7.4.29/apache2/htdocs/koi/company_landing/adm/js",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,9 +65,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Bitnami\wampstack-7.4.29\apache2\htdocs\koi\company_landing\adm\js" />
+      <recent name="C:\Bitnami\wampstack-7.4.29\apache2\htdocs\koi\company_landing\adm" />
+      <recent name="C:\Bitnami\wampstack-7.4.29\apache2\htdocs\koi\company_landing\js" />
       <recent name="C:\Bitnami\wampstack-7.4.29\apache2\htdocs\koi\company_landing\data\image" />
       <recent name="C:\Bitnami\wampstack-7.4.29\apache2\htdocs\koi\company_landing" />
-      <recent name="C:\Bitnami\wampstack-7.4.29\apache2\htdocs\koi\company_landing\css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -76,7 +83,9 @@
       <workItem from="1712563549307" duration="1748000" />
       <workItem from="1712568555196" duration="614000" />
       <workItem from="1712732737040" duration="2832000" />
-      <workItem from="1712742860295" duration="2534000" />
+      <workItem from="1712742860295" duration="2632000" />
+      <workItem from="1712837835052" duration="1533000" />
+      <workItem from="1712839645973" duration="1181000" />
     </task>
     <task id="LOCAL-00001" summary="[UPDATE] 라이센스 업데이트">
       <option name="closed" value="true" />
@@ -134,7 +143,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712735588590</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[UPDATE] 헤더 메뉴 구성중">
+      <option name="closed" value="true" />
+      <created>1712750512960</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1712750512960</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,6 +162,7 @@
     <MESSAGE value="[UPDATE] 라이센스 업데이트" />
     <MESSAGE value="[UPDATE] 라이센스" />
     <MESSAGE value="[UPDATE] 기본 레이아웃 셋팅" />
-    <option name="LAST_COMMIT_MESSAGE" value="[UPDATE] 기본 레이아웃 셋팅" />
+    <MESSAGE value="[UPDATE] 헤더 메뉴 구성중" />
+    <option name="LAST_COMMIT_MESSAGE" value="[UPDATE] 헤더 메뉴 구성중" />
   </component>
 </project>
