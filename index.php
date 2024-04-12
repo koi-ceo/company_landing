@@ -2,52 +2,43 @@
 include_once('./_common.php');
 include_once "./head.php";
 ?>
-    <div id="fullpage">
-        <section class="hero is-halfheight is-flex is-align-items-center is-justify-content-center" id="section1">
-            <div class="hero-head">
-                <div class="container has-text-centered">
-                    <h2 class="title">Your Title Here</h2>
-                    <p class="subtitle">Your subtitle here</p>
-                </div>
-            </div>
-        </section>
-        <section class="hero is-halfheight is-flex is-align-items-center is-justify-content-center" id="section2">
-            <div class="hero-head">
-                <div class="container has-text-centered">
-                    <h2 class="title">Your Title Here</h2>
-                    <p class="subtitle">Your subtitle here</p>
-                </div>
-            </div>
-        </section>
-        <section class="hero is-halfheight is-flex is-align-items-center is-justify-content-center" id="section3">
-            <div class="hero-head">
-                <div class="container has-text-centered">
-                    <h2 class="title">Your Title Here</h2>
-                    <p class="subtitle">Your subtitle here</p>
-                </div>
-            </div>
-        </section>
-        <section class="hero is-halfheight is-flex is-align-items-center is-justify-content-center" id="section4">
-            <div class="hero-head">
-                <div class="container has-text-centered">
-                    <h2 class="title">Your Title Here</h2>
-                    <p class="subtitle">Your subtitle here</p>
-                </div>
-            </div>
-        </section>
-    </div>
 
+로고는 KOI에 O를 잉어 두마리로 꾸미는것도 괜찮을듯.
+사이트 컬러부터 정해야 되는데.
+사이트컬러 000080, FFD700, C0C0C0
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/onepage-scroll/1.3.1/jquery.onepage-scroll.min.js"></script>
-    <script>
-        $("#fullpage").onepage_scroll({
-            sectionContainer: "section",
-            responsiveFallback: 600,
-            loop: true
-        });
-    </script>
-    </script>
+    <section class="hero is-fullheight-with-navbar is-flex is-align-items-center is-justify-content-center" id="section1">
+        <div class="hero-head">
+            <div class="container has-text-centered">
+                <h2 class="title" style="color:#000080; background-color: #C0C0C0">Your Title Here</h2>
+                <p class="subtitle">Your subtitle here</p>
+            </div>
+        </div>
+    </section>
+    <section class="hero is-fullheight is-flex is-align-items-center is-justify-content-center" id="section2">
+        <div class="hero-head">
+            <div class="container has-text-centered">
+                <h2 class="title" style="color:#000080; background-color: #C0C0C0">Your Title Here</h2>
+                <p class="subtitle">Your subtitle here</p>
+            </div>
+        </div>
+    </section>
+    <section class="hero is-fullheight is-flex is-align-items-center is-justify-content-center" id="section3">
+        <div class="hero-head">
+            <div class="container has-text-centered">
+                <h2 class="title">Your Title Here</h2>
+                <p class="subtitle">Your subtitle here</p>
+            </div>
+        </div>
+    </section>
+    <section class="hero is-fullheight is-flex is-align-items-center is-justify-content-center" id="section4">
+        <div class="hero-head">
+            <div class="container has-text-centered">
+                <h2 class="title">Your Title Here</h2>
+                <p class="subtitle">Your subtitle here</p>
+            </div>
+        </div>
+    </section>
 <?php
 include_once "./tail.php";
 ?>

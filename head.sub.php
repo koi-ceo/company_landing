@@ -7,7 +7,7 @@
 
 if (!defined('_KOI_')) exit; // 개별 페이지 접근 불가
 
-$koi['title'] = strip_tags("코이");
+$koi['title'] = strip_tags("KOI");
 $koi_head_title = strip_tags("코이");
 $koi['description'] = "";
 ?>
